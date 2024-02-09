@@ -1,0 +1,1 @@
+Encryption is the process of converting readable data (plaintext) into an unreadable format (ciphertext) using algorithms and keys. Decryption is the reverse process, converting ciphertext back into plaintext using the same algorithms and keys. This technique ensures data confidentiality and security, making it unreadable to unauthorized parties.
